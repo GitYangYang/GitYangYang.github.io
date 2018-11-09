@@ -1,10 +1,10 @@
 ## 关于
 
-个人邮箱: yjgyy@outlook.com,  工作邮箱: yang.y@sunayard.com
+个人邮箱: yjgyy@outlook.com,  工作邮箱: yang.y@sunyard.com
 
 工作时间: 8:30AM ~ 17:50PM, Mon ~ Fri.
 
-工作地点: 杭州, 信雅达系统工程股份有限公司
+工作地点: 信雅达系统工程股份有限公司,杭州. 
 
 **兴趣爱好**
 
@@ -20,7 +20,7 @@ DOTA2
 
 1. 常用转码操作
 
-    ANSI, utf-8, unicode,具体参见[《编码转换》](./charset.html)
+    ANSI, utf-8, unicode,具体参见[《编码转换》]
 
 2. 国际化资料
 
@@ -32,5 +32,4 @@ DOTA2
 
 4. 窗口问题
 
-    参见[常用窗体操作](./WndOpt/operation.html)
-
+    参见[常用窗体操作]
